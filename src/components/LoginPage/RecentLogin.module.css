@@ -1,0 +1,30 @@
+.header{
+    display: flex;
+}
+.img-content{
+    padding: 0 0 24px 0;
+}
+.img-content img{
+    border: 0;
+}
+.fbimg{
+    height: 70px;
+    margin: -20px;
+    display: flex;
+}
+
+.recentLogin {
+    font-family: SFProDisplay-Regular, Helvetica, Arial, sans-serif;
+    font-size: 28px;
+    font-weight: normal;
+    line-height: 32px;
+    display: flex;
+}
+.comment {
+    color: #606770;
+    font-family: SFProText-Regular, Helvetica, Arial, sans-serif;
+    font-size: 15px;
+    line-height: 24px;
+    margin-bottom: 12px;
+    display: flex;
+}

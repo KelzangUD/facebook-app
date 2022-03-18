@@ -1,0 +1,8 @@
+.layout{
+    padding: 92px 0 132px 0;
+}
+.app {
+    display: flex;
+    margin: auto;
+    width: 980px;
+}
