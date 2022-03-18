@@ -1,0 +1,19 @@
+.profileCard:hover{
+    cursor: pointer;
+}
+.imgHolderDiv{
+    height: 160px;
+    width: 160px;
+    text-align: center;
+    background-color: #f5f6f7;
+}
+.image {
+    position: relative;
+    top: 50%;
+    transform: translateY(-50%);
+  }
+.text {
+    background-color: #fff;
+    font-size: 18px;
+    font-family: SFProText-Medium, Helvetica, Arial, sans-seri;
+}

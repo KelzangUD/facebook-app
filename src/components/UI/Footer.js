@@ -1,8 +1,10 @@
+import classes from './Footer.module.css';
+
 const Footer = () =>{
     return (
-        <div>
-            <div>
-                <div>
+        <div className={classes.footer}>
+            <div className={classes.footerContent}>
+                <div className={classes.pageFooter}>
                     <ul>
                         <li>English (UK)</li>
                         <li><a class="_sv4" dir="ltr" href="https://pt-br.facebook.com/" onclick="require(&quot;IntlUtils&quot;).setCookieLocale(&quot;pt_BR&quot;, &quot;en_GB&quot;, &quot;https:\/\/pt-br.facebook.com\/&quot;, &quot;www_list_selector&quot;, 0); return false;" title="Portuguese (Brazil)">Português (Brasil)</a></li>
@@ -19,7 +21,7 @@ const Footer = () =>{
                     </ul>
                 </div>
                 <hr/>
-                <div>
+                <div className={classes.pageFooter}>
                     <ul>
                         <li><a href="/reg/" title="Sign up for Facebook">Sign Up</a></li>
                         <li><a href="/login/" title="Log in to Facebook">Log In</a></li>

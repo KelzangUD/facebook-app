@@ -1,0 +1,27 @@
+.footer{
+    background-color: #ffffff;
+    color: #1c1e21;
+}
+a {
+    color: #737373;
+    text-decoration: none;
+}
+ul {
+    list-style-type: none;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    padding-inline-start: 40px;
+}
+.footerContent{
+    padding: 20px 0;
+}
+.pageFooter {
+    color: #737373;
+    margin: 0 auto;
+    width: 980px;
+}
+ul li {
+    float: left;
+}
