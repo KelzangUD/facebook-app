@@ -1,0 +1,72 @@
+[
+    {
+        "href": "pt-br",
+        "onClicK":"pt_BR&quot;, &quot;en_GB&quot;, &quot;https:\/\/pt-br." ,
+        "title": "Portuguese (Brazil)",
+        "language": "Português (Brasil)"
+        
+    },
+    {
+        "href": "es-la",
+        "onClicK": "es_LA&quot;, &quot;en_GB&quot;, &quot;https:\/\/es-la.",
+        "title": "Spanish",
+        "language": "Español"
+        
+    },
+    {
+        "href": "ja-jp",
+        "onClicK":  "ja_JP&quot;, &quot;en_GB&quot;, &quot;https:\/\/ja-jp.",
+        "title": "Japanese",
+        "language":"日本語" 
+        
+    },
+    {
+        "href": "fr-fr",
+        "onClicK": "fr_FR&quot;, &quot;en_GB&quot;, &quot;https:\/\/fr-fr.",
+        "title": "French (France)",
+        "language":"Français (France)" 
+        
+    },
+    {
+        "href": "th-th",
+        "onClicK": "th_TH&quot;, &quot;en_GB&quot;, &quot;https:\/\/th-th.",
+        "title": "Thai",
+        "language":"ภาษาไทย" 
+        
+    },
+    {
+        "href": "de-de",
+        "onClicK": "de_DE&quot;, &quot;en_GB&quot;, &quot;https:\/\/de-de.",
+        "title": "German",
+        "language": "Deutsch"
+        
+    },
+    {
+        "href": "id-id",
+        "onClicK": "id_ID&quot;, &quot;en_GB&quot;, &quot;https:\/\/id-id.",
+        "title": "Indonesian",
+        "language": "Bahasa Indonesia"
+        
+    },
+    {
+        "href": "it-it",
+        "onClicK": "it_IT&quot;, &quot;en_GB&quot;, &quot;https:\/\/it-it.",
+        "title": "Italian",
+        "language": "Italiano"
+        
+    },
+    {
+        "href": "ar-ar",
+        "onClicK": "ar_AR&quot;, &quot;en_GB&quot;, &quot;https:\/\/ar-ar.",
+        "title": "Arabic",
+        "language": "العربية"
+        
+    },
+    {
+        "href": "hi-in",
+        "onClicK": "hi_IN&quot;, &quot;en_GB&quot;, &quot;https:\/\/hi-in." ,
+        "title": "Hindi",
+        "language": "हिन्दी"
+        
+    }
+]

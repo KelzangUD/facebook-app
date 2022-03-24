@@ -1,0 +1,152 @@
+[
+    {
+        "href":"/reg/",
+        "title":"Sign up for Facebook",
+        "name": "Sign Up"
+    },
+    {
+        "href":"/login/",
+        "title":"Log in to Facebook",
+        "name": "Log In"
+    },
+    {
+        "href":"https://messenger.com/",
+        "title":"Take a look at Messenger.",
+        "name": "Messenger"
+    },
+    {
+        "href":"/lite/",
+        "title":"Facebook Lite for Android.",
+        "name": "Facebook Lite"
+    },
+    {
+        "href":"https://www.facebook.com/watch/",
+        "title":"Browse our Watch videos.",
+        "name": "Watch"
+    },
+    {
+        "href":"/places/",
+        "title":"Take a look at popular places on Facebook.",
+        "name": "Games"
+    },
+    {
+        "href":"/games/",
+        "title":"Check out Facebook games.",
+        "name": "Games"
+    },
+    {
+        "href":"/marketplace/",
+        "title":"Buy and sell on Facebook Marketplace.",
+        "name": "Marketplace"
+    },
+    {
+        "href":"https://pay.facebook.com/",
+        "title":"Learn more about Facebook Pay",
+        "name": "Facebook Pay"
+    },
+    {
+        "href":"https://www.oculus.com/",
+        "title":"Learn more about Oculus",
+        "name": "Oculus"
+    },
+    {
+        "href":"https://portal.facebook.com/",
+        "title":"Learn more about Facebook Portal",
+        "name": "Portal"
+    },
+    {
+        "href":"https://www.instagram.com/",
+        "title":"Take a look at Instagram",
+        "name": "Instagram"
+    },
+    {
+        "href":"https://www.bulletin.com/",
+        "title":"Take a look at Bulletin newsletter",
+        "name": "Bullitin"
+    },
+    {
+        "href":"/local/lists/245019872666104/",
+        "title":"Browse our Local Lists directory.",
+        "name": "Local"
+    },
+    {
+        "href":"/fundraisers/",
+        "title":"Donate to worthy causes.",
+        "name": "Fundraisers"
+    },
+    {
+        "href":"/biz/directory/",
+        "title":"Browse our Facebook Services directory.",
+        "name": "Services"
+    },
+    {
+        "href":"/votinginformationcenter/?entry_point=c2l0ZQ%3D%3D",
+        "title":"See the Voting Information Centre",
+        "name": "Voting Information Centre"
+    },
+    {
+        "href":"/groups/explore/",
+        "title":"Explore our groups.",
+        "name": "Groups"
+    },
+    {
+        "href":"https://about.facebook.com/",
+        "title":"Read our blog, discover the resource centre and find job opportunities.",
+        "name": "About"
+    },
+    {
+        "href":"/ad_campaign/landing.php?placement=pflo&amp;campaign_id=402047449186&amp;nav_source=unknown&amp;extra_1=auto",
+        "title":"Advertise on Facebook",
+        "name": "Create ad"
+    },
+    {
+        "href":"/pages/create/?ref_type=site_footer",
+        "title":"Create a Page",
+        "name": "Create Page"
+    },
+    {
+        "href":"https://developers.facebook.com/?ref=pf",
+        "title":"Develop on our platform.",
+        "name": "Developers"
+    },
+    {
+        "href":"/careers/?ref=pf",
+        "title":"Make your next career move to our brilliant company.",
+        "name": "Careers"
+    },
+    {
+        "href":"/privacy/explanation/",
+        "title":"Learn about your privacy and Facebook.",
+        "name": "Privacy"
+    },
+    {
+        "href":"/policies/cookies/",
+        "title":"Learn about cookies and Facebook.",
+        "name": "Cookies"
+    },
+    {
+        "href":"https://www.facebook.com/help/568137493302217",
+        "title":"Learn about AdChoices.",
+        "name": "AdChoices"
+    },
+    {
+        "href":"/policies?ref=pf",
+        "title":"Review our terms and policies.",
+        "name": "Terms"
+    },
+    {
+        "href":"/help/?ref=pf",
+        "title":"Visit our Help Centre.",
+        "name": "Help"
+    },
+    {
+        "href":"/settings",
+        "title":"View and edit your Facebook settings.",
+        "name": "Settings"
+    },
+    {
+        "href":"/allactivity?privacy_source=activity_log_top_menu",
+        "title":"View your activity log",
+        "name": "Activity log"
+    }   
+]
